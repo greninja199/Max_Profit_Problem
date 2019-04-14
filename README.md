@@ -12,5 +12,7 @@ From Level 2 you pick value 2, bag_value=3.
 From Level 3 you pick value 4, bag_value=7.
 From Level 4 you pick value 20, bag_value=27.
 
+@GhostBug-007 check it out, the problem avove. 
+
 # Solution
 File-: "bottomTop.cpp"
